@@ -1,0 +1,16 @@
+body 
+{
+    background-size:cover;
+    background-position: center;
+}
+
+#header
+{
+ font-family:cursive;
+ color: white;
+}
+
+a{
+    font-size: 20px;
+   color:gold;
+}
